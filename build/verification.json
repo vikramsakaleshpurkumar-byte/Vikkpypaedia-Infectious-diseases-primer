@@ -1,0 +1,200 @@
+{
+  "passed": true,
+  "checks": [
+    {
+      "name": "Chapter numbering exactly 1–168",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "All 1,106 content pages assigned once",
+      "passed": true,
+      "detail": {
+        "pages": 1106,
+        "duplicates": 0
+      }
+    },
+    {
+      "name": "raw/chapters count",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "wiki/chapters count",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "wiki/flashcards count",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "wiki/mcqs count",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "data/chapters count",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Six study pathways",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "32 clinical search features",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "At least six cards per chapter",
+      "passed": true,
+      "detail": 6
+    },
+    {
+      "name": "Every chapter has a quiz",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Every chapter indexed in pathogen atlas",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Quiz answer indices and unique options",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Unique card and quiz identifiers",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Automated quiz source titles masked",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Study tools have no chapter meta boilerplate",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "All image placements exist and decode",
+      "passed": true,
+      "detail": {
+        "missing": 0,
+        "invalid": 0
+      }
+    },
+    {
+      "name": "Markdown navigation and asset links resolve",
+      "passed": true,
+      "detail": []
+    },
+    {
+      "name": "Study tool page references within source chapter",
+      "passed": true,
+      "detail": []
+    },
+    {
+      "name": "JavaScript syntax in every data/app bundle",
+      "passed": true,
+      "detail": []
+    },
+    {
+      "name": "Inline script syntax 0",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Inline script syntax 1",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Inline script syntax 2",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Known mathematical glyph repairs preserved",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Short treatment statements retained",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Landscape table normalization recorded",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Nonstandard chapters have complete source page images",
+      "passed": true,
+      "detail": null
+    }
+  ],
+  "errors": [],
+  "source_sha256": "447f3e9615d3b328074e092e5b627d3a8e9dd4cea77c43db81e7af69dc7d1fc6",
+  "source_bytes": 449070706,
+  "metrics": {
+    "chapters": 168,
+    "figures": 1452,
+    "matched_captions": 1416,
+    "tables": 83,
+    "flashcards": 1310,
+    "mcqs": 196,
+    "vignettes": 28,
+    "source_recall": 168,
+    "treatment_records": 809,
+    "dose_records": 82,
+    "words": 498299
+  },
+  "unmatched_captions": [
+    "figures/ch003_p0025_03.jpg",
+    "figures/ch006_p0048_03.jpg",
+    "figures/ch011_p0069_03.jpg",
+    "figures/ch024_p0117_03.jpg",
+    "figures/ch029_p0140_03.jpg",
+    "figures/ch049_p0265_01.jpg",
+    "figures/ch050_p0275_01.jpg",
+    "figures/ch063_p0362_01.jpg",
+    "figures/ch063_p0363_01.jpg",
+    "figures/ch063_p0364_01.jpg",
+    "figures/ch063_p0369_01.jpg",
+    "figures/ch064_p0383_01.jpg",
+    "figures/ch067_p0397_01.jpg",
+    "figures/ch067_p0398_01.jpg",
+    "figures/ch067_p0405_05.jpg",
+    "figures/ch072_p0427_01.jpg",
+    "figures/ch072_p0432_01.jpg",
+    "figures/ch072_p0433_01.jpg",
+    "figures/ch074_p0459_01.jpg",
+    "figures/ch075_p0473_01.jpg",
+    "figures/ch078_p0495_01.jpg",
+    "figures/ch081_p0512_01.jpg",
+    "figures/ch102_p0655_02.jpg",
+    "figures/ch105_p0668_01.jpg",
+    "figures/ch121_p0761_01.jpg",
+    "figures/ch138_p0880_01.jpg",
+    "figures/ch138_p0882_01.jpg",
+    "figures/ch142_p0916_01.jpg",
+    "figures/ch142_p0917_01.jpg",
+    "figures/ch145_p0950_01.jpg",
+    "figures/ch156_p1008_01.jpg",
+    "figures/ch156_p1009_01.jpg",
+    "figures/ch163_p1077_01.jpg",
+    "figures/ch168_p1112_01.jpg",
+    "figures/ch168_p1114_01.jpg",
+    "figures/ch168_p1120_03.jpg"
+  ]
+}

@@ -1,0 +1,70 @@
+# Bacterial infections
+> Editorial study pathway; not a source-book part.
+
+- 1. [Actinomycosis](../chapters/001.md) · printed pp. 1-3
+- 5. [Anthrax](../chapters/005.md) · printed pp. 20-27
+- 7. [Arcanobacterium haemolyticum Infections](../chapters/007.md) · printed pp. 39-40
+- 12. [Bacillus cereus Infections and Intoxications](../chapters/012.md) · printed pp. 58-60
+- 13. [Bacterial Vaginosis](../chapters/013.md) · printed pp. 61-63
+- 14. [Bacteroides, Prevotella, and Other Anaerobic Gram-Negative Bacilli Infections](../chapters/014.md) · printed pp. 64-65
+- 16. [Bartonella henselae (Cat-Scratch Disease)](../chapters/016.md) · printed pp. 68-73
+- 21. [Borrelia Infections Other Than Lyme Disease (Relapsing Fever)](../chapters/021.md) · printed pp. 89-92
+- 22. [Brucellosis](../chapters/022.md) · printed pp. 93-96
+- 23. [Burkholderia Infections](../chapters/023.md) · printed pp. 97-100
+- 24. [Campylobacter Infections](../chapters/024.md) · printed pp. 101-103
+- 26. [Chancroid and Cutaneous Ulcers](../chapters/026.md) · printed pp. 114-117
+- 28. [Chlamydia pneumoniae](../chapters/028.md) · printed pp. 122-123
+- 29. [Chlamydia psittaci (Psittacosis, Ornithosis, Parrot Fever)](../chapters/029.md) · printed pp. 124-127
+- 30. [Chlamydia trachomatis](../chapters/030.md) · printed pp. 128-135
+- 31. [Botulism and Infant Botulism (Clostridium botulinum)](../chapters/031.md) · printed pp. 136-141
+- 32. [Clostridial Myonecrosis (Gas Gangrene)](../chapters/032.md) · printed pp. 142-144
+- 33. [Clostridioides difficile (Formerly Clostridium difficile)](../chapters/033.md) · printed pp. 145-150
+- 34. [Clostridium perfringens Foodborne Illness](../chapters/034.md) · printed pp. 151-153
+- 45. [Diphtheria](../chapters/045.md) · printed pp. 218-225
+- 46. [Ehrlichia, Anaplasma, and Related Infections (Human Ehrlichiosis, Anaplasmosis, and Related Infections Attributable to Bacteria in the Family Anaplasmataceae)](../chapters/046.md) · printed pp. 226-235
+- 47. [Serious Neonatal Bacterial Infections Caused by Enterobacterales (Including Septicemia and Meningitis)](../chapters/047.md) · printed pp. 236-242
+- 50. [Escherichia coli Diarrhea (Including Hemolytic-Uremic Syndrome)](../chapters/050.md) · printed pp. 255-262
+- 52. [Fusobacterium Infections (Including Lemierre Syndrome)](../chapters/052.md) · printed pp. 271-273
+- 54. [Gonococcal Infections](../chapters/054.md) · printed pp. 280-289
+- 55. [Granuloma Inguinale (Donovanosis)](../chapters/055.md) · printed pp. 290-291
+- 56. [Haemophilus influenzae Infections](../chapters/056.md) · printed pp. 292-307
+- 58. [Helicobacter pylori Infections](../chapters/058.md) · printed pp. 313-317
+- 76. [Kingella kingae Infections](../chapters/076.md) · printed pp. 466-468
+- 77. [Legionella Infections](../chapters/077.md) · printed pp. 469-474
+- 79. [Leprosy](../chapters/079.md) · printed pp. 483-487
+- 80. [Leptospirosis](../chapters/080.md) · printed pp. 488-492
+- 81. [Listeria monocytogenes Infections (Listeriosis)](../chapters/081.md) · printed pp. 493-498
+- 82. [Lyme Disease (Lyme Borreliosis, Borrelia burgdorferi sensu lato Infection)](../chapters/082.md) · printed pp. 499-510
+- 87. [Meningococcal Infections](../chapters/087.md) · printed pp. 555-572
+- 91. [Moraxella catarrhalis Infections](../chapters/091.md) · printed pp. 584-585
+- 94. [Mycoplasma pneumoniae and Other Mycoplasma Species Infections](../chapters/094.md) · printed pp. 600-605
+- 95. [Nocardiosis](../chapters/095.md) · printed pp. 606-609
+- 104. [Pasteurella Infections](../chapters/104.md) · printed pp. 648-650
+- 109. [Pertussis (Whooping Cough)](../chapters/109.md) · printed pp. 667-678
+- 112. [Plague](../chapters/112.md) · printed pp. 686-694
+- 117. [Pseudomonas aeruginosa Infections](../chapters/117.md) · printed pp. 720-722
+- 118. [Q Fever (Coxiella burnetii Infection)](../chapters/118.md) · printed pp. 723-726
+- 120. [Rat-Bite Fever](../chapters/120.md) · printed pp. 740-742
+- 123. [Rickettsial Diseases](../chapters/123.md) · printed pp. 754-756
+- 124. [Rickettsialpox](../chapters/124.md) · printed pp. 757-758
+- 125. [Rocky Mountain Spotted Fever](../chapters/125.md) · printed pp. 759-764
+- 128. [Salmonella Infections](../chapters/128.md) · printed pp. 780-792
+- 131. [Shigella Infections](../chapters/131.md) · printed pp. 805-809
+- 134. [Staphylococcal Food Poisoning](../chapters/134.md) · printed pp. 824-825
+- 135. [Staphylococcus aureus](../chapters/135.md) · printed pp. 826-843
+- 136. [Coagulase-Negative Staphylococcal Infections](../chapters/136.md) · printed pp. 844-846
+- 137. [Group A Streptococcal Infections](../chapters/137.md) · printed pp. 847-862
+- 138. [Group B Streptococcal Infections](../chapters/138.md) · printed pp. 863-870
+- 139. [Non–Group A or B Streptococcal and Enterococcal Infections](../chapters/139.md) · printed pp. 871-876
+- 140. [Streptococcus pneumoniae (Pneumococcal) Infections](../chapters/140.md) · printed pp. 877-892
+- 142. [Syphilis](../chapters/142.md) · printed pp. 897-918
+- 145. [Tetanus (Lockjaw)](../chapters/145.md) · printed pp. 934-942
+- 157. [Tuberculosis](../chapters/157.md) · printed pp. 999-1028
+- 158. [Nontuberculous Mycobacteria (Environmental Mycobacteria, Mycobacteria Other Than Mycobacterium tuberculosis)](../chapters/158.md) · printed pp. 1029-1039
+- 159. [Tularemia](../chapters/159.md) · printed pp. 1040-1047
+- 160. [Louse-borne Typhus (Epidemic or Sylvatic Typhus)](../chapters/160.md) · printed pp. 1048-1051
+- 161. [Murine Typhus (Endemic or Flea-borne Typhus)](../chapters/161.md) · printed pp. 1052-1053
+- 162. [Ureaplasma urealyticum and Ureaplasma parvum Infections](../chapters/162.md) · printed pp. 1054-1056
+- 164. [Cholera (Vibrio cholerae)](../chapters/164.md) · printed pp. 1075-1080
+- 165. [Other Vibrio Infections](../chapters/165.md) · printed pp. 1081-1082
+- 167. [Yersinia enterocolitica and Yersinia pseudotuberculosis Infections (Enteritis and Other Illnesses)](../chapters/167.md) · printed pp. 1091-1095

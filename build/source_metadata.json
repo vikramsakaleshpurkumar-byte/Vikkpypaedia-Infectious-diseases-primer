@@ -1,0 +1,874 @@
+{
+  "source": "C:\\Users\\India\\Downloads\\Red_Book_Atlas_of_Pediatric_Infectious_Diseases_American_Academy.pdf",
+  "title": "Red Book Atlas of Pediatric Infectious Diseases",
+  "edition": 6,
+  "year": 2026,
+  "editor": "Tina Q. Tan",
+  "publisher": "American Academy of Pediatrics",
+  "pdf_pages": 1178,
+  "chapters": 168,
+  "front_matter_pdf": [
+    1,
+    14
+  ],
+  "content_pdf": [
+    15,
+    1120
+  ],
+  "index_pdf": [
+    1121,
+    1178
+  ],
+  "toc": [
+    [
+      1,
+      "Front Matter",
+      1
+    ],
+    [
+      1,
+      "1. Actinomycosis",
+      15
+    ],
+    [
+      1,
+      "2. Adenovirus Infections",
+      18
+    ],
+    [
+      1,
+      "3. Amebiasis",
+      22
+    ],
+    [
+      1,
+      "4. Amebic Meningoencephalitis and Keratitis (Naegleria fowleri, Acanthamoeba species, and Balamuthia mandrillaris)",
+      29
+    ],
+    [
+      1,
+      "5. Anthrax",
+      34
+    ],
+    [
+      1,
+      "6. Arboviruses (Including Cache Valley, Colorado Tick Fever, Eastern Equine Encephalitis, Heartland, Jamestown Canyon, Japanese Encephalitis, La Crosse, Powassan, St. Louis Encephalitis, Tick-borne Encephalitis, and Yellow Fever Viruses)",
+      42
+    ],
+    [
+      1,
+      "7. Arcanobacterium haemolyticum Infections",
+      53
+    ],
+    [
+      1,
+      "8. Ascaris lumbricoides Infections",
+      55
+    ],
+    [
+      1,
+      "9. Aspergillosis",
+      59
+    ],
+    [
+      1,
+      "10. Astrovirus Infections",
+      65
+    ],
+    [
+      1,
+      "11. Babesiosis",
+      67
+    ],
+    [
+      1,
+      "12. Bacillus cereus Infections and Intoxications",
+      72
+    ],
+    [
+      1,
+      "13. Bacterial Vaginosis",
+      75
+    ],
+    [
+      1,
+      "14. Bacteroides, Prevotella, and Other Anaerobic Gram-Negative Bacilli Infections",
+      78
+    ],
+    [
+      1,
+      "15. Balantidium coli Infections (Balantidiasis)",
+      80
+    ],
+    [
+      1,
+      "16. Bartonella henselae (Cat-Scratch Disease)",
+      82
+    ],
+    [
+      1,
+      "17. Baylisascaris Infections",
+      88
+    ],
+    [
+      1,
+      "18. Infections With Blastocystis Species",
+      94
+    ],
+    [
+      1,
+      "19. Blastomycosis",
+      97
+    ],
+    [
+      1,
+      "20. Bocavirus",
+      101
+    ],
+    [
+      1,
+      "21. Borrelia Infections Other Than Lyme Disease (Relapsing Fever)",
+      103
+    ],
+    [
+      1,
+      "22. Brucellosis",
+      107
+    ],
+    [
+      1,
+      "23. Burkholderia Infections",
+      111
+    ],
+    [
+      1,
+      "24. Campylobacter Infections",
+      115
+    ],
+    [
+      1,
+      "25. Candidiasis",
+      118
+    ],
+    [
+      1,
+      "26. Chancroid and Cutaneous Ulcers",
+      128
+    ],
+    [
+      1,
+      "27. Chikungunya",
+      132
+    ],
+    [
+      1,
+      "28. Chlamydia pneumoniae",
+      136
+    ],
+    [
+      1,
+      "29. Chlamydia psittaci (Psittacosis, Ornithosis, Parrot Fever)",
+      138
+    ],
+    [
+      1,
+      "30. Chlamydia trachomatis",
+      142
+    ],
+    [
+      1,
+      "31. Botulism and Infant Botulism (Clostridium botulinum)",
+      150
+    ],
+    [
+      1,
+      "32. Clostridial Myonecrosis (Gas Gangrene)",
+      156
+    ],
+    [
+      1,
+      "33. Clostridioides difficile (Formerly Clostridium difficile)",
+      159
+    ],
+    [
+      1,
+      "34. Clostridium perfringens Foodborne Illness",
+      165
+    ],
+    [
+      1,
+      "35. Coccidioidomycosis",
+      168
+    ],
+    [
+      1,
+      "36. Coronavirus Disease 2019 (COVID-19)",
+      177
+    ],
+    [
+      1,
+      "37. Coronaviruses, Including MERS-CoV and SARS-CoV-1",
+      189
+    ],
+    [
+      1,
+      "38. Cryptococcus neoformans and Cryptococcus gattii Infections (Cryptococcosis)",
+      193
+    ],
+    [
+      1,
+      "39. Cryptosporidiosis",
+      197
+    ],
+    [
+      1,
+      "40. Cutaneous Larva Migrans",
+      203
+    ],
+    [
+      1,
+      "41. Cyclosporiasis",
+      206
+    ],
+    [
+      1,
+      "42. Cystoisosporiasis (Formerly Isosporiasis)",
+      209
+    ],
+    [
+      1,
+      "43. Cytomegalovirus Infection",
+      212
+    ],
+    [
+      1,
+      "44. Dengue",
+      224
+    ],
+    [
+      1,
+      "45. Diphtheria",
+      232
+    ],
+    [
+      1,
+      "46. Ehrlichia, Anaplasma, and Related Infections (Human Ehrlichiosis, Anaplasmosis, and Related Infections Attributable to Bacteria in the Family Anaplasmataceae)",
+      240
+    ],
+    [
+      1,
+      "47. Serious Neonatal Bacterial Infections Caused by Enterobacterales (Including Septicemia and Meningitis)",
+      250
+    ],
+    [
+      1,
+      "48. Enterovirus (Nonpoliovirus) (Group A and B Coxsackieviruses, Echoviruses, Numbered Enteroviruses)",
+      257
+    ],
+    [
+      1,
+      "49. Epstein-Barr Virus Infections (Infectious Mononucleosis)",
+      263
+    ],
+    [
+      1,
+      "50. Escherichia coli Diarrhea (Including Hemolytic-Uremic Syndrome)",
+      269
+    ],
+    [
+      1,
+      "51. Other Fungal Diseases",
+      277
+    ],
+    [
+      1,
+      "52. Fusobacterium Infections (Including Lemierre Syndrome)",
+      285
+    ],
+    [
+      1,
+      "53. Giardia duodenalis (Formerly Giardia lamblia and Giardia intestinalis) Infections (Giardiasis)",
+      288
+    ],
+    [
+      1,
+      "54. Gonococcal Infections",
+      294
+    ],
+    [
+      1,
+      "55. Granuloma Inguinale (Donovanosis)",
+      304
+    ],
+    [
+      1,
+      "56. Haemophilus influenzae Infections",
+      306
+    ],
+    [
+      1,
+      "57. Hantavirus Pulmonary Syndrome",
+      322
+    ],
+    [
+      1,
+      "58. Helicobacter pylori Infections",
+      327
+    ],
+    [
+      1,
+      "59. Hemorrhagic Fevers Caused by Arenaviruses",
+      332
+    ],
+    [
+      1,
+      "60. Hemorrhagic Fevers Caused by Bunyaviruses",
+      335
+    ],
+    [
+      1,
+      "61. Hemorrhagic Fevers Caused by Filoviruses: Ebola and Marburg",
+      341
+    ],
+    [
+      1,
+      "62. Hepatitis A",
+      351
+    ],
+    [
+      1,
+      "63. Hepatitis B",
+      360
+    ],
+    [
+      1,
+      "64. Hepatitis C",
+      379
+    ],
+    [
+      1,
+      "65. Hepatitis D",
+      386
+    ],
+    [
+      1,
+      "66. Hepatitis E",
+      388
+    ],
+    [
+      1,
+      "67. Herpes Simplex",
+      391
+    ],
+    [
+      1,
+      "68. Histoplasmosis",
+      407
+    ],
+    [
+      1,
+      "69. Hookworm Infections (Necator americanus and Ancylostoma species)",
+      412
+    ],
+    [
+      1,
+      "70. Human Herpesvirus 6 (Including Roseola) and 7",
+      417
+    ],
+    [
+      1,
+      "71. Human Herpesvirus 8",
+      422
+    ],
+    [
+      1,
+      "72. Human Immunodeficiency Virus Infection",
+      424
+    ],
+    [
+      1,
+      "73. Human Papillomaviruses",
+      446
+    ],
+    [
+      1,
+      "74. Influenza",
+      454
+    ],
+    [
+      1,
+      "75. Kawasaki Disease",
+      472
+    ],
+    [
+      1,
+      "76. Kingella kingae Infections",
+      480
+    ],
+    [
+      1,
+      "77. Legionella Infections",
+      483
+    ],
+    [
+      1,
+      "78. Leishmaniasis",
+      489
+    ],
+    [
+      1,
+      "79. Leprosy",
+      497
+    ],
+    [
+      1,
+      "80. Leptospirosis",
+      502
+    ],
+    [
+      1,
+      "81. Listeria monocytogenes Infections (Listeriosis)",
+      507
+    ],
+    [
+      1,
+      "82. Lyme Disease (Lyme Borreliosis, Borrelia burgdorferi sensu lato Infection)",
+      513
+    ],
+    [
+      1,
+      "83. Lymphatic Filariasis (Bancroftian, Malayan, and Timorian)",
+      525
+    ],
+    [
+      1,
+      "84. Lymphocytic Choriomeningitis Virus",
+      531
+    ],
+    [
+      1,
+      "85. Malaria",
+      534
+    ],
+    [
+      1,
+      "86. Measles",
+      552
+    ],
+    [
+      1,
+      "87. Meningococcal Infections",
+      569
+    ],
+    [
+      1,
+      "88. Human Metapneumovirus",
+      587
+    ],
+    [
+      1,
+      "89. Microsporidia Infections (Microsporidiosis)",
+      590
+    ],
+    [
+      1,
+      "90. Molluscum Contagiosum",
+      594
+    ],
+    [
+      1,
+      "91. Moraxella catarrhalis Infections",
+      598
+    ],
+    [
+      1,
+      "92. Mpox",
+      600
+    ],
+    [
+      1,
+      "93. Mumps",
+      607
+    ],
+    [
+      1,
+      "94. Mycoplasma pneumoniae and Other Mycoplasma Species Infections",
+      614
+    ],
+    [
+      1,
+      "95. Nocardiosis",
+      620
+    ],
+    [
+      1,
+      "96. Norovirus and Sapovirus Infections",
+      624
+    ],
+    [
+      1,
+      "97. Onchocerciasis (River Blindness, Filariasis)",
+      628
+    ],
+    [
+      1,
+      "98. Paracoccidioidomycosis (Formerly Known as South American Blastomycosis)",
+      632
+    ],
+    [
+      1,
+      "99. Paragonimiasis",
+      635
+    ],
+    [
+      1,
+      "100. Parainfluenza Viral Infections",
+      639
+    ],
+    [
+      1,
+      "101. Parasitic Diseases",
+      643
+    ],
+    [
+      1,
+      "102. Parechovirus Infections",
+      653
+    ],
+    [
+      1,
+      "103. Parvovirus B19 (Erythema Infectiosum, Fifth Disease)",
+      656
+    ],
+    [
+      1,
+      "104. Pasteurella Infections",
+      662
+    ],
+    [
+      1,
+      "105. Pediculosis Capitis (Head Lice)",
+      665
+    ],
+    [
+      1,
+      "106. Pediculosis Corporis (Body Lice)",
+      672
+    ],
+    [
+      1,
+      "107. Pediculosis Pubis (Pubic Lice, Crab Lice)",
+      674
+    ],
+    [
+      1,
+      "108. Pelvic Inflammatory Disease",
+      677
+    ],
+    [
+      1,
+      "109. Pertussis (Whooping Cough)",
+      681
+    ],
+    [
+      1,
+      "110. Pinworm Infection (Enterobius vermicularis)",
+      693
+    ],
+    [
+      1,
+      "111. Pityriasis Versicolor (Formerly Tinea Versicolor)",
+      697
+    ],
+    [
+      1,
+      "112. Plague",
+      700
+    ],
+    [
+      1,
+      "113. Pneumocystis jirovecii Infections",
+      709
+    ],
+    [
+      1,
+      "114. Poliovirus Infections",
+      716
+    ],
+    [
+      1,
+      "115. Polyomaviruses (BK, JC, and Other Polyomaviruses)",
+      725
+    ],
+    [
+      1,
+      "116. Prion Diseases: Transmissible Spongiform Encephalopathies",
+      728
+    ],
+    [
+      1,
+      "117. Pseudomonas aeruginosa Infections",
+      734
+    ],
+    [
+      1,
+      "118. Q Fever (Coxiella burnetii Infection)",
+      737
+    ],
+    [
+      1,
+      "119. Rabies",
+      741
+    ],
+    [
+      1,
+      "120. Rat-Bite Fever",
+      754
+    ],
+    [
+      1,
+      "121. Respiratory Syncytial Virus",
+      757
+    ],
+    [
+      1,
+      "122. Rhinovirus Infections",
+      766
+    ],
+    [
+      1,
+      "123. Rickettsial Diseases",
+      768
+    ],
+    [
+      1,
+      "124. Rickettsialpox",
+      771
+    ],
+    [
+      1,
+      "125. Rocky Mountain Spotted Fever",
+      773
+    ],
+    [
+      1,
+      "126. Rotavirus Infections",
+      779
+    ],
+    [
+      1,
+      "127. Rubella",
+      784
+    ],
+    [
+      1,
+      "128. Salmonella Infections",
+      794
+    ],
+    [
+      1,
+      "129. Scabies",
+      807
+    ],
+    [
+      1,
+      "130. Schistosomiasis",
+      813
+    ],
+    [
+      1,
+      "131. Shigella Infections",
+      819
+    ],
+    [
+      1,
+      "132. Smallpox (Variola)",
+      824
+    ],
+    [
+      1,
+      "133. Sporotrichosis",
+      833
+    ],
+    [
+      1,
+      "134. Staphylococcal Food Poisoning",
+      838
+    ],
+    [
+      1,
+      "135. Staphylococcus aureus",
+      840
+    ],
+    [
+      1,
+      "136. Coagulase-Negative Staphylococcal Infections",
+      858
+    ],
+    [
+      1,
+      "137. Group A Streptococcal Infections",
+      861
+    ],
+    [
+      1,
+      "138. Group B Streptococcal Infections",
+      877
+    ],
+    [
+      1,
+      "139. Non–Group A or B Streptococcal and Enterococcal Infections",
+      885
+    ],
+    [
+      1,
+      "140. Streptococcus pneumoniae (Pneumococcal) Infections",
+      891
+    ],
+    [
+      1,
+      "141. Strongyloidiasis (Strongyloides stercoralis)",
+      907
+    ],
+    [
+      1,
+      "142. Syphilis",
+      911
+    ],
+    [
+      1,
+      "143. Tapeworm Diseases (Taeniasis and Cysticercosis)",
+      933
+    ],
+    [
+      1,
+      "144. Other Tapeworm Infections (Including Hydatid Disease)",
+      941
+    ],
+    [
+      1,
+      "145. Tetanus (Lockjaw)",
+      948
+    ],
+    [
+      1,
+      "146. Tinea Capitis (Ringworm of the Scalp)",
+      957
+    ],
+    [
+      1,
+      "147. Tinea Corporis (Ringworm of the Body)",
+      962
+    ],
+    [
+      1,
+      "148. Tinea Cruris (Jock Itch)",
+      968
+    ],
+    [
+      1,
+      "149. Tinea Pedis and Tinea Unguium (Onychomycosis) (Athlete’s Foot, Ringworm of the Feet)",
+      970
+    ],
+    [
+      1,
+      "150. Toxocariasis",
+      974
+    ],
+    [
+      1,
+      "151. Toxoplasma gondii Infections (Toxoplasmosis)",
+      978
+    ],
+    [
+      1,
+      "152. Trichinellosis (Trichinella spiralis and Other Species)",
+      989
+    ],
+    [
+      1,
+      "153. Trichomonas vaginalis Infections (Trichomoniasis)",
+      993
+    ],
+    [
+      1,
+      "154. Trichuriasis (Whipworm Infection)",
+      999
+    ],
+    [
+      1,
+      "155. African Trypanosomiasis (Sleeping Sickness)",
+      1002
+    ],
+    [
+      1,
+      "156. American Trypanosomiasis (Chagas Disease)",
+      1006
+    ],
+    [
+      1,
+      "157. Tuberculosis",
+      1013
+    ],
+    [
+      1,
+      "158. Nontuberculous Mycobacteria (Environmental Mycobacteria, Mycobacteria Other Than Mycobacterium tuberculosis)",
+      1043
+    ],
+    [
+      1,
+      "159. Tularemia",
+      1054
+    ],
+    [
+      1,
+      "160. Louse-borne Typhus (Epidemic or Sylvatic Typhus)",
+      1062
+    ],
+    [
+      1,
+      "161. Murine Typhus (Endemic or Flea-borne Typhus)",
+      1066
+    ],
+    [
+      1,
+      "162. Ureaplasma urealyticum and Ureaplasma parvum Infections",
+      1068
+    ],
+    [
+      1,
+      "163. Varicella-Zoster Virus Infections",
+      1071
+    ],
+    [
+      1,
+      "164. Cholera (Vibrio cholerae)",
+      1089
+    ],
+    [
+      1,
+      "165. Other Vibrio Infections",
+      1095
+    ],
+    [
+      1,
+      "166. West Nile Virus",
+      1097
+    ],
+    [
+      1,
+      "167. Yersinia enterocolitica and Yersinia pseudotuberculosis Infections (Enteritis and Other Illnesses)",
+      1105
+    ],
+    [
+      1,
+      "168. Zika",
+      1110
+    ],
+    [
+      1,
+      "Index",
+      1121
+    ]
+  ]
+}
